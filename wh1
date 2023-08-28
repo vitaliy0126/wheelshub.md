@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Продажа шин и дисков в Кишиневе!!</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+      text-align: center; /* Центрирование содержимого по горизонтали */
+    }
+
+    header {
+      background-color: #f0f0f0;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    h2 a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://wheelshub.md/image/catalog/dostavka888.png" alt="Доставка" style="width: 500px; height: auto;">
+    <h1>Сайт: wheelshub.md - лучший сайт продажи шин и дисков в Молдове!</h1>
+  </header>
+  <div style="text-align: center; margin-top: 20px;">
+    <p>У нас Вы точно найдете то, что ищете!</p>
+    <h2><a href="https://wheelshub.md/">Диски и шины в Молдове на wheelshub.md</a></h2>
+    <p>Нужна помощь в выборе? +373 78 336 655</p>
+    <p>Напишите нам: support@wheelshub.md</p>
+  </div>
+  <img src="https://wheelshub.md/image/catalog/logo-wheelshub.jpg" alt="Доставка" style="width: 500px; height: auto;">
+</body>
+</html>
